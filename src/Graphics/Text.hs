@@ -223,7 +223,7 @@ type Color = V4 Double
 
 -- | Renders text.
 --
--- This is the most generic function.
+-- This is the most generic rendering function in this module.
 --
 -- You should know how to calculate how many bytes your image pointer needs.
 --
