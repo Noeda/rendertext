@@ -28,6 +28,10 @@ flag build-toys
   default:             False
   description:         Build toy programs
 
+source-repository head
+    type:            git
+    location:        https://github.com/Noeda/rendertext.git
+
 library
   exposed-modules:     Graphics.Text
   build-depends:       base  >=4.7 && <5.0
