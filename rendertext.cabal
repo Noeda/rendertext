@@ -14,7 +14,7 @@ description:
     This package wants to be a simple, no-nonsense text rendering library. It
     was written for the need to have quick and simple text in OpenGL.
 homepage:            https://github.com/Noeda/rendertext/
-license:             MIT
+license:             LGPL-2.1
 license-file:        LICENSE
 author:              Mikko Juola
 maintainer:          mikjuo@gmail.com
